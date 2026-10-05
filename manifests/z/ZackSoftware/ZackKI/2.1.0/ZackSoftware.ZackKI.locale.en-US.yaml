@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: ZackSoftware.ZackKI
+PackageVersion: 2.1.0
+PackageLocale: en-US
+Publisher: Zack Software
+PublisherUrl: https://zack-ki.com/en
+PublisherSupportUrl: https://zack-ki.com/en/contact.html
+PrivacyUrl: https://zack-ki.com/en/privacy.html
+PackageName: Zack KI
+PackageUrl: https://zack-ki.com/en
+License: Proprietary
+ShortDescription: Select text or files anywhere in Windows, press Alt+1, and the AI answer appears right where you are working.
+Description: |-
+  Zack KI brings AI to where you already work. Select text in Outlook, Word or your browser, mark files in Explorer, or drag a screen region - then press Alt+1. Your selection is the context, so there is no copy-paste round trip, and the answer can be written straight back into your selection. Two buttons decide how much time an answer may take: Quick for instant replies, Deep for tricky tasks. Chats stay local on your PC; the servers run in Germany and do not store your requests. Windows 10 and 11.
+Tags:
+- windows
+- ai
+- productivity
+- ai-assistant
+- shortcut
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
